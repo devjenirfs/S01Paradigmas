@@ -1,0 +1,15 @@
+/home/jeniffer/Paradigmas/CSharp/bin/Debug/net8.0/C#
+/home/jeniffer/Paradigmas/CSharp/bin/Debug/net8.0/C#.deps.json
+/home/jeniffer/Paradigmas/CSharp/bin/Debug/net8.0/C#.runtimeconfig.json
+/home/jeniffer/Paradigmas/CSharp/bin/Debug/net8.0/C#.dll
+/home/jeniffer/Paradigmas/CSharp/bin/Debug/net8.0/C#.pdb
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.sourcelink.json
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.dll
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/refint/C#.dll
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.pdb
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/home/jeniffer/Paradigmas/CSharp/obj/Debug/net8.0/ref/C#.dll
